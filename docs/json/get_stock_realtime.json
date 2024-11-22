@@ -1,146 +1,148 @@
-[
-  {
+{
+  "0": {
     "item": "sell_5",
-    "value": 3.3
+    "value": 3.17
   },
-  {
+  "1": {
     "item": "sell_5_vol",
-    "value": 1882700
+    "value": 476200
   },
-  {
+  "2": {
     "item": "sell_4",
-    "value": 3.29
+    "value": 3.16
   },
-  {
+  "3": {
     "item": "sell_4_vol",
-    "value": 1352300
+    "value": 687800
   },
-  {
+  "4": {
     "item": "sell_3",
-    "value": 3.28
+    "value": 3.15
   },
-  {
+  "5": {
     "item": "sell_3_vol",
-    "value": 2965300
+    "value": 936900
   },
-  {
+  "6": {
     "item": "sell_2",
+    "value": 3.14
+  },
+  "7": {
+    "item": "sell_2_vol",
+    "value": 480400
+  },
+  "8": {
+    "item": "sell_1",
+    "value": 3.13
+  },
+  "9": {
+    "item": "sell_1_vol",
+    "value": 243400
+  },
+  "10": {
+    "item": "buy_1",
+    "value": 3.12
+  },
+  "11": {
+    "item": "buy_1_vol",
+    "value": 795800
+  },
+  "12": {
+    "item": "buy_2",
+    "value": 3.11
+  },
+  "13": {
+    "item": "buy_2_vol",
+    "value": 351800
+  },
+  "14": {
+    "item": "buy_3",
+    "value": 3.1
+  },
+  "15": {
+    "item": "buy_3_vol",
+    "value": 547700
+  },
+  "16": {
+    "item": "buy_4",
+    "value": 3.09
+  },
+  "17": {
+    "item": "buy_4_vol",
+    "value": 123500
+  },
+  "18": {
+    "item": "buy_5",
+    "value": 3.08
+  },
+  "19": {
+    "item": "buy_5_vol",
+    "value": 542300
+  },
+  "20": {
+    "item": "最新",
+    "value": 3.13
+  },
+  "21": {
+    "item": "均价",
+    "value": 3.19
+  },
+  "22": {
+    "item": "涨幅",
+    "value": -3.69
+  },
+  "23": {
+    "item": "涨跌",
+    "value": -0.12
+  },
+  "24": {
+    "item": "总手",
+    "value": 1134237
+  },
+  "25": {
+    "item": "金额",
+    "value": 362158928
+  },
+  "26": {
+    "item": "换手",
+    "value": 2.36
+  },
+  "27": {
+    "item": "量比",
+    "value": 1.27
+  },
+  "28": {
+    "item": "最高",
     "value": 3.27
   },
-  {
-    "item": "sell_2_vol",
-    "value": 2811200
-  },
-  {
-    "item": "sell_1",
-    "value": 3.26
-  },
-  {
-    "item": "sell_1_vol",
-    "value": 3182600
-  },
-  {
-    "item": "buy_1",
-    "value": 3.25
-  },
-  {
-    "item": "buy_1_vol",
-    "value": 323900
-  },
-  {
-    "item": "buy_2",
-    "value": 3.24
-  },
-  {
-    "item": "buy_2_vol",
-    "value": 3008400
-  },
-  {
-    "item": "buy_3",
-    "value": 3.23
-  },
-  {
-    "item": "buy_3_vol",
-    "value": 3239700
-  },
-  {
-    "item": "buy_4",
-    "value": 3.22
-  },
-  {
-    "item": "buy_4_vol",
-    "value": 2045600
-  },
-  {
-    "item": "buy_5",
-    "value": 3.21
-  },
-  {
-    "item": "buy_5_vol",
-    "value": 1971300
-  },
-  {
-    "item": "最新",
-    "value": 3.25
-  },
-  {
-    "item": "均价",
-    "value": 3.25
-  },
-  {
-    "item": "涨幅",
-    "value": -0.91
-  },
-  {
-    "item": "涨跌",
-    "value": -0.03
-  },
-  {
-    "item": "总手",
-    "value": 711229
-  },
-  {
-    "item": "金额",
-    "value": 231146319
-  },
-  {
-    "item": "换手",
-    "value": 1.48
-  },
-  {
-    "item": "量比",
-    "value": 0.75
-  },
-  {
-    "item": "最高",
-    "value": 3.28
-  },
-  {
+  "29": {
     "item": "最低",
-    "value": 3.23
+    "value": 3.13
   },
-  {
+  "30": {
     "item": "今开",
-    "value": 3.28
+    "value": 3.25
   },
-  {
+  "31": {
     "item": "昨收",
-    "value": 3.28
+    "value": 3.25
   },
-  {
+  "32": {
     "item": "涨停",
-    "value": 3.61
+    "value": 3.58
   },
-  {
+  "33": {
     "item": "跌停",
-    "value": 2.95
+    "value": 2.93
   },
-  {
+  "34": {
     "item": "外盘",
-    "value": 240068
+    "value": 307399
   },
-  {
+  "35": {
     "item": "内盘",
-    "value": 471162
-  }
-]
+    "value": 826838
+  },
+  "fetchDate": "2024-11-22",
+  "stockCode": "601975"
+}
